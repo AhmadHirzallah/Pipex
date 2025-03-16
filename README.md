@@ -9,7 +9,6 @@
 - [Test Cases](#test-cases)
 - [Bonus Features](#bonus-features)
 - [Requirements & Guidelines](#requirements--guidelines)
-- [Submission & Evaluation](#submission--evaluation)
 
 ## Introduction
 
