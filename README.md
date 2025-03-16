@@ -1,7 +1,5 @@
 # Pipex
 
-**Version:** 3.2
-
 ## Table of Contents
 
 - [Introduction](#introduction)
