@@ -14,7 +14,7 @@
 
 Pipex is a project designed to explore a core UNIX mechanism—pipes—by implementing them in C. The goal is to replicate the behavior of shell piping in a program by chaining commands together and handling input/output redirection. This project not only reinforces your understanding of process management and file descriptors in UNIX but also deepens your skills in error handling, memory management, and adherence to coding standards.
 
-### Project Demo
+### Project Demo (Press on Picture)
 
 [![Pipex Project Demo](https://img.youtube.com/vi/MPfBGJQ-m6g/0.jpg)](https://www.youtube.com/watch?v=MPfBGJQ-m6g)
 
